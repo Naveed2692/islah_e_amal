@@ -1,0 +1,17 @@
+.navbar-light , .dropdown-menu{
+  background-color: #116466 !important;
+  border: 1px solid white;  
+  
+}
+div ul li a{
+  color: white !important;
+}
+.navbar-toggler-icon1{
+  color: white;
+}
+.dropdown-item:hover{
+  background-color: white !important;
+  color: #116466 !important;
+  border-radius: 5px;
+  border: 1px solid red;
+}
